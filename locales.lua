@@ -339,6 +339,7 @@ elseif locale == "ruRU" then
 	L["autoDesc"] = "Открывает окошко BugSack автоматически при ошибке, но только если не в бою."
 	L["Chatframe output"] = "Вывод в окно чата"
 	L["chatFrameDesc"] = "Выводит в чат напоминание, что произошла ошибка. Не ошибку, а напоминание!"
+	L["Copy All Errors"] = "Копировать все ошибки"
 	L["Current session"] = "Текущая сессия"
 	L["Failure to deserialize incoming data from %s."] = "Не смог разобрать входящие данные от %s."
 	L["Filter"] = "Фильтр"
